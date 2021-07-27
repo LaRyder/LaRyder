@@ -1,6 +1,6 @@
 # <b> Hi, I'm Lauren Ryder </b>
 
-<img src="C:\Users\laryder\OneDrive - Microsoft\Pictures\family.jpg">
+![Family](image.jpg)
 
 # <i> On Github I am: </i>
 <ul>
