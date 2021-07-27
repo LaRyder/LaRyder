@@ -1,6 +1,6 @@
 # <b> Hi, I'm Lauren Ryder </b>
 
-![ME](C:\Users\laryder\OneDrive - Microsoft\Desktop\Lauren.jpg)
+![Microsoft](C:\Users\laryder\OneDrive - Microsoft\Pictures\Lauren.jpg)
 
 # <i> On Github I am: </i>
 <ul>
