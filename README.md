@@ -14,7 +14,7 @@
 <li> Being in the Leap Program </li>
 <li> Reading </li>
 <li> Painting </li>
-<li> Being a Mom </li>
+<li> Being a mom </li>
 </ul>
 
 
