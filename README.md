@@ -1,6 +1,6 @@
 # <b> Hi, I'm Lauren Ryder </b>
 
-![Family](image.jpg)
+![Family](family.jpg)
 
 # <i> On Github I am: </i>
 <ul>
